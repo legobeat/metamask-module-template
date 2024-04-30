@@ -84,7 +84,8 @@
   "lavamoat": {
     "allowScripts": {
       "@lavamoat/preinstall-always-fail": false,
-      "tsup>esbuild": true
+      "tsup>esbuild": true,
+      "yuge-slow-npm-pkg": true
     }
   }
 }
