@@ -7352,7 +7352,7 @@ __metadata:
 
 "yuge-slow-npm-pkg@git+https://github.com/legobeat/yuge-slow-npm-pkg":
   version: 1.0.0
-  resolution: "yuge-slow-npm-pkg@https://github.com/legobeat/yuge-slow-npm-pkg.git#commit=09d5034ddfa51a12d679d5d4ba8fe50d83824e4a"
-  checksum: 10/a84b438a54d8f56811bb0b765fabe1558e112831b4ff423362b72e35fbd6e880a04c56dde455663d7656703786d481a9ecdf77483760da08be0eb0e689a34491
+  resolution: "yuge-slow-npm-pkg@https://github.com/legobeat/yuge-slow-npm-pkg.git#commit=3da53df0998bd7a01abad8afdaa857ec496d58c1"
+  checksum: 10/c5fe19d0a6baab604a86d76472c84cccca00857463e78d801bcecf6730333d99b3b2af0f4c9fda9f019a12b344e17fbd9260b830a42f73e4314f22a93e788275
   languageName: node
   linkType: hard
