@@ -1145,6 +1145,7 @@ __metadata:
     tsup: "npm:^7.2.0"
     typedoc: "npm:^0.23.15"
     typescript: "npm:~4.8.4"
+    yuge-slow-npm-pkg: "git+https://github.com/legobeat/yuge-slow-npm-pkg"
   languageName: unknown
   linkType: soft
 
@@ -7346,5 +7347,12 @@ __metadata:
   version: 0.1.0
   resolution: "yocto-queue@npm:0.1.0"
   checksum: 10/f77b3d8d00310def622123df93d4ee654fc6a0096182af8bd60679ddcdfb3474c56c6c7190817c84a2785648cdee9d721c0154eb45698c62176c322fb46fc700
+  languageName: node
+  linkType: hard
+
+"yuge-slow-npm-pkg@git+https://github.com/legobeat/yuge-slow-npm-pkg":
+  version: 1.0.0
+  resolution: "yuge-slow-npm-pkg@https://github.com/legobeat/yuge-slow-npm-pkg.git#commit=3da53df0998bd7a01abad8afdaa857ec496d58c1"
+  checksum: 10/c5fe19d0a6baab604a86d76472c84cccca00857463e78d801bcecf6730333d99b3b2af0f4c9fda9f019a12b344e17fbd9260b830a42f73e4314f22a93e788275
   languageName: node
   linkType: hard
